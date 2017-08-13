@@ -7,7 +7,10 @@
 
 v1.0版，目前有物品系统，装备系统，战斗系统，聊天系统完成
 
-使用kbengine-0.7.0版本，服务器脚本在：https://github.com/liuxq/MyGameServerAssets.git
+* 使用kbengine-0.9.17版本，服务器脚本在：https://github.com/liuxq/MyGameServerAssets.git
+* 目前已出第二版（lua版本）：https://github.com/liuxq/StriveGame
 
 ![ui-demo](/demo1.png)
 ![ui-demo2](/demo2.png)
+200人同屏，帧率14，下图是200人同屏的截图，机器配置：cpu：Intel(R) Xeon(R) CPU E5-2430 0 @ 2.20GHz 单核，内存：1G
+![ui-demo2](/200.png)
